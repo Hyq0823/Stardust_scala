@@ -1,4 +1,4 @@
-package com.func
+package com.func.base
 
 object FuncTest {
 
